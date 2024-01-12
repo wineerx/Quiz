@@ -39,7 +39,7 @@ $(document).ready(function () {
           <div class="px-32 pt-6 pb-8 mb-4 ">
     
               <div class="logo mr-5 max-w-xs max-w-xs">
-                  <img src="assets/img/quiz2.png" alt="Logo Quiz" srcset="">
+                  <img src="assets/img/quiz.png" alt="Logo Quiz" srcset="">
               </div>
               
               <div>
@@ -153,6 +153,5 @@ $(document).ready(function () {
 
 
   };
-
   welcomeScreen();
 });
