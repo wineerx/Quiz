@@ -1,5 +1,7 @@
 # Quiz
 
+![Design Sytem](https://i.imgur.com/7bnfHPk.png)
+
 Bem-vindo ao repositório do Quiz de HTML, CSS, Tailwind e JavaScript! Este é um projeto colaborativo que visa fornecer um quiz interativo para testar seus conhecimentos em desenvolvimento web.
 
 ## Como Funciona
